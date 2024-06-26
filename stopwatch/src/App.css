@@ -1,0 +1,21 @@
+.clock{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 200px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btns{
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  height: auto;
+  align-items: center;
+}
+button{
+  font-size: 40px;
+  border: none;
+  background-color: #fefbd8;
+  padding: 10px;
+}
